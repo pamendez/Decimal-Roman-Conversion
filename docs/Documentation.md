@@ -5,8 +5,8 @@ This document establishes the requirements, installation and execution, acceptan
 1. [Software requirements](#software-requirements)
 2. [Acceptance criteria](#acceptance-criteria)
 3. [Test cases](#test-cases)
-  1. [End-to-end tests](#end-to-end-tests)
-  2. [Unit testing](#unit-testing)
+    1. [End-to-end tests](#end-to-end-tests)
+    2. [Unit testing](#unit-testing)
 
 ## Software requirements
 Given the problem, the following software requirements were surveyed and documented:
