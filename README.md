@@ -4,6 +4,7 @@
 2. [Description](#description)
 3. [Problem](#problem)
 4. [Software documentation](#software-documentation)
+5. [User manual](#user-manual)
 
 ## Author
 | Name | ID | Email |
