@@ -1,0 +1,10 @@
+# Python Binary Files
+__pycache__
+.pyc
+.pyo
+
+# Python Virtual Environment
+.venv
+
+# VSCode Configuration Files
+.vscode

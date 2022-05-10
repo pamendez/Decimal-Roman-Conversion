@@ -35,7 +35,12 @@ cd <path-to-repo>
 python convert.py
 ``` 
 
-5. If everything worked, the message ```'Enter a arabic (decimal) number'``` will appear on the terminal on your screen, and with that you successfully installed this application.
+5. If everything worked, the message ```'Enter an arabic (decimal) number'``` will appear on the terminal on your screen, and with that you successfully installed this application.
+
+## Usage
+Once in the application, insert a numerical value greater or equal than one (1) and it's roman numeral equivalent will appear on screen.
+
+If a zero or negative value is inserted instead, then an error will appear on screen.
 
 ## Execution of tests
 Once installed the application, if you want to run the available unit tests make sure you have the [`pytest`](https://docs.pytest.org/en/7.1.x/contents.html) package installed on your machine. If it's not installed, use the following command:
@@ -50,8 +55,3 @@ Afterwards, simply use the following command on the terminal of your choice and 
 ```
 pytest test_convert.py
 ```
-
-## Usage
-Once in the application, insert a numerical value greater or equal than one (1) and it's roman numeral equivalent will appear on screen.
-
-If a zero or negative value is inserted instead, then an error will appear on screen.
