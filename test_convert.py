@@ -11,8 +11,13 @@ def test_valid_arabic_2():
     assert(expected == convert(data))
 
 def test_valid_arabic_3():
-    data = "1"
-    expected = "I"
+    data = "2995"
+    expected = "MMCMXCV"
+    assert(expected == convert(data))
+
+def test_valid_arabic_4():
+    data = "99"
+    expected = "XCIX"
     assert(expected == convert(data))
 
 def test_invalid_arabic_zero():
