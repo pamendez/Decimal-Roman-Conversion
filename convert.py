@@ -30,7 +30,7 @@ def convert(arabic_number: str):
     arabic_number = int(arabic_number)
     if (arabic_number > 0):
         numerals = []
-        while (arabic_number <= 0):            
+        while not (arabic_number <= 0):            
             for value, symbol in roman_numerals_table:                
                 if (value <= arabic_number):                    
                     numerals.append(symbol)
