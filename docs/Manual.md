@@ -47,11 +47,17 @@ Once installed the application, if you want to run the available unit tests make
 
 ```
 Windows: pip install -U pytest
-Linux/MacOS: python -m pip install -U pytest
+Linux/MacOS: python3 -m pip install -U pytest
 ```
 
 Afterwards, simply use the following command on the terminal of your choice and on the root of the application to run the available unit tests
 
+* For Windows users:
 ```
-pytest test_convert.py
+pytest test_convert
+```
+
+* For Linux users:
+```
+python3 -m pytest test_convert.py
 ```
