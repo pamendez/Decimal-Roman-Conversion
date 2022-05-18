@@ -70,17 +70,17 @@ Afirmaciones (Assertions).
 Referencia utilizada: https://quick-adviser.com/what-are-the-components-of-an-xunit-test-framework/.
  
 8. Indique al menos tres desventajas de las pruebas unitarias automatizadas.
-1. Con las pruebas unitarias automatizadas, debe aumentar la cantidad de código que debe escribirse. Por lo general, tiene que escribir una o más pruebas unitarias dependiendo de cuán complejas sean las cosas.
-2. Si bien el código de prueba debe ser bastante simple, este método de prueba sigue siendo más trabajo y más código, lo que significa más horas y más costo.
-3. Las pruebas unitarias automatizadas son problemáticas cuando se necesita probar la interfaz de usuario (UI). Son buenos para cuando necesita probar la implementación de la lógica empresarial, pero no son excelentes para la interfaz de usuario.
-4. Las pruebas unitarias automatizadas no pueden ni detectarán todos los errores en un programa, pues existen muchos factores para que ocurra un error a nivel unitario como a nivel completo.
+- Con las pruebas unitarias automatizadas, debe aumentar la cantidad de código que debe escribirse. Por lo general, tiene que escribir una o más pruebas unitarias dependiendo de cuán complejas sean las cosas.
+- Si bien el código de prueba debe ser bastante simple, este método de prueba sigue siendo más trabajo y más código, lo que significa más horas y más costo.
+- Las pruebas unitarias automatizadas son problemáticas cuando se necesita probar la interfaz de usuario (UI). Son buenos para cuando necesita probar la implementación de la lógica empresarial, pero no son excelentes para la interfaz de usuario.
+- Las pruebas unitarias automatizadas no pueden ni detectarán todos los errores en un programa, pues existen muchos factores para que ocurra un error a nivel unitario como a nivel completo.
 Referencia utilizada: https://theqalead.com/topics/unit-testing/.
  
 9. Indique al menos tres ventajas de las pruebas unitarias automatizadas.
-1. Las pruebas unitarias hacen que sea más seguro y fácil refactorizar el código al implementar pruebas que aseguran que la refactorización ocurra sin problemas ni interrupciones. Elimina el riesgo de cambiar el código fuente más antiguo.
-2. Hacer pruebas unitarias automatizadas es esencialmente asegurar la garantía de calidad del código., pues muestra problemas y errores antes de que el producto tenga una prueba de integración.
-3. Las pruebas unitarias automatizadas ayudan a encontrar problemas y resolverlos antes de realizar más pruebas para que no afecten a otros bits de código. Esto incluye errores en la ejecución de un programador y problemas con una especificación para la unidad en sí.
-4. Las pruebas unitarias automatizadas permiten la refactorización del código y simplifican la integración. Encuentra cambios y ayuda a mantener y ajustar el código, reduciendo errores y defectos, y verificando la precisión de cada unidad.
+- Las pruebas unitarias hacen que sea más seguro y fácil refactorizar el código al implementar pruebas que aseguran que la refactorización ocurra sin problemas ni interrupciones. Elimina el riesgo de cambiar el código fuente más antiguo.
+- Hacer pruebas unitarias automatizadas es esencialmente asegurar la garantía de calidad del código., pues muestra problemas y errores antes de que el producto tenga una prueba de integración.
+- Las pruebas unitarias automatizadas ayudan a encontrar problemas y resolverlos antes de realizar más pruebas para que no afecten a otros bits de código. Esto incluye errores en la ejecución de un programador y problemas con una especificación para la unidad en sí.
+- Las pruebas unitarias automatizadas permiten la refactorización del código y simplifican la integración. Encuentra cambios y ayuda a mantener y ajustar el código, reduciendo errores y defectos, y verificando la precisión de cada unidad.
 Referencia utilizada: https://theqalead.com/topics/unit-testing/.
  
 10. Tomando el algoritmo de conversión de números arábigos o "decimales" a números Romanos:
