@@ -41,11 +41,11 @@ El sistema deberá tener un tiempo de respuesta no más de 2 segundos. Este requ
 4. ¿Qué es TDD?
 El Desarrollo Impulsado por Pruebas, o Test Driven Development (TDD), es un enfoque de desarrollo de software en el que se desarrollan casos de prueba para especificar y validar lo que hará el código. En términos simples, los casos de prueba para cada funcionalidad se crean y prueban primero antes del código y si la prueba falla, entonces se escribe el nuevo código para pasar la prueba y hacer que el código sea simple y libre de errores. Los siguientes pasos definen cómo realizar un desarrollo estilo TDD:
 
-1. Agregue una prueba.
-2. Ejecuta todas las pruebas y ve si se produce un error en alguna prueba nueva.
-3. Escribe algo de código.
-4. Ejecute pruebas y refactorizar el código.
-5. Repita todos los pasos hasta que sea necesario.
+- Agregue una prueba.
+- Ejecuta todas las pruebas y ve si se produce un error en alguna prueba nueva.
+- Escribe algo de código.
+- Ejecute pruebas y refactorizar el código.
+- Repita todos los pasos hasta que sea necesario.
 Referencia utilizada: https://www.guru99.com/test-driven-development.html.
  
 5. ¿Qué son pruebas unitarias automatizadas?
